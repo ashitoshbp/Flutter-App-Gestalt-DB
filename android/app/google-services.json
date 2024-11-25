@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819195743543",
+    "project_id": "gestalt-facial-db",
+    "storage_bucket": "gestalt-facial-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819195743543:android:9f0cf844d1e7abbf0c9eb2",
+        "android_client_info": {
+          "package_name": "com.example.gestalt_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819195743543-tnahkmp7ib3e47i2qctbv1nbqoet2eo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PybIRm9wUtuZwxvU0ehA_rArDK_XtgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819195743543-tnahkmp7ib3e47i2qctbv1nbqoet2eo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819195743543-qeumd7jghdktmerk4l90j6jt8facvsoo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestaltDb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
